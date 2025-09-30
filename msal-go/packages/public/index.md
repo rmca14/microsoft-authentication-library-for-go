@@ -224,6 +224,8 @@ AcquireTokenByDeviceCode acquires a security token from the authority, by acquir
 Options: \[WithClaims\], \[WithTenantID\]
 
 ### func \(Client\) AcquireTokenByUsernamePassword
+>[!WARNING]
+> This Api has been deprecated due to security risks, use a more secure flow. Follow [this guide](https://aka.ms/msal-ropc-migration) for migration guidance.
 
 ```go
 func (pca Client) AcquireTokenByUsernamePassword(ctx context.Context, scopes []string, username, password string, opts ...AcquireByUsernamePasswordOption) (AuthResult, error)
