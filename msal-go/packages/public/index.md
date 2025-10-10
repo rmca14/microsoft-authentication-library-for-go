@@ -132,7 +132,7 @@ type AcquireByDeviceCodeOption interface {
 ## type AcquireByUsernamePasswordOption
 
 >[!WARNING]
-> The AcquireTokenByUsernamePassword flow has been deprecated due to security risks, use a more secure flow. Follow [this guide](https://aka.ms/msal-ropc-migration) for migration guidance.
+> The AcquireTokenByUsernamePassword has been deprecated due to security risks. Microsoft recommends using a more secure authentication flow. Follow the official guidance on how to [Migrate from ROPC](https://aka.ms/msal-ropc-migration).
 
 AcquireByUsernamePasswordOption is implemented by options for AcquireTokenByUsernamePassword
 
