@@ -1,7 +1,7 @@
 ---
 title: Microsoft Authentication Library for Go Design Guide
 description: "Design guidelines for the Microsoft Authentication Library for Go."
-ms.topic: article
+ms.topic: concept-article
 ---
 
 # Microsoft Authentication Library for Go Design Guide
