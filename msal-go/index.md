@@ -5,7 +5,6 @@ ms.date: 02/11/2025
 author: dickson-mwendia
 ms.author: dmwendia
 ms.topic: concept-article
-ms.date: 04/29/2026
 ---
 
 # Microsoft Authentication Library (MSAL) for Go
