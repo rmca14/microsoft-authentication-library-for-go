@@ -2,6 +2,8 @@
 title: Microsoft Authentication Library for Go Design Guide
 description: "Design guidelines for the Microsoft Authentication Library for Go."
 ms.topic: concept-article
+author: dickson-mwendia
+ms.author: dmwendia
 ---
 
 # Microsoft Authentication Library for Go Design Guide

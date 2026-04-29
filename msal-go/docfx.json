@@ -50,14 +50,6 @@
       "recommendation_types": ["Training", "Certification"]
     },
     "fileMetadata": {
-      "author": {
-        "*.md": "localden",
-        "*/**.md": "localden"
-      },
-      "ms.author": {
-        "*.md": "ddelimarsky",
-        "*/**.md": "ddelimarsky"
-      },
       "ms.service": {
         "*.md": "azure-active-directory",
         "*/**.md": "azure-active-directory"
