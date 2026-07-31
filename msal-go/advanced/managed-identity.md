@@ -11,7 +11,7 @@ ms.date: 02/11/2025
 >[!NOTE]
 >This feature is available starting with MSAL for Go version [`1.3.1`](https://github.com/AzureAD/microsoft-authentication-library-for-go/releases/tag/v1.3.1).
 
-A common challenge for developers is the management of secrets, credentials, certificates, and keys used to secure communication between services. [Managed identities](/azure/active-directory/managed-identities-azure-resources/overview) in Azure eliminate the need for developers to handle these credentials manually. MSAL for Go supports acquiring tokens through the managed identity service when used with applications running inside Azure infrastructure, such as:
+A common challenge for developers is the management of secrets, credentials, certificates, and keys used to secure communication between services. [Managed identities](/azure/active-directory/managed-identities-azure-resources/overview) in Azure eliminate the need for developers to handle these credentials manually. MSAL for Go supports acquiring tokens through the managed identity service when used with applications running inside Azure infrastructure, such as: test pr
 
 * [Azure VMs](https://azure.microsoft.com/free/virtual-machines/)
 * [Azure Arc](/azure/azure-arc/overview)
